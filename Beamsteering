@@ -1,0 +1,6 @@
+IMPLEMENTATION OF UNIFORM ANTENNA ARRAYS WITH BEAMSTEERING  CAPABILITY AND PHASER CALIBRATION. 
+
+Beamforming and Beam steering in Antenna are finding expanding use with frameworks like cellular telecommunications and specifically 5G just as numerous different wireless frameworks. This project mainly focuses on the utilization of the concepts of Phased Antenna Array to steer an antenna beam to the desired Direction Angle using Uniform Liner Antenna Array and Uniform Circular Antenna Array. The equations governing the technique of Beam steering are studied in detail and implemented using MATLAB. Beam steering is achieved for both Uniform Liner Antenna Array and Uniform Circular Antenna Array using MATLAB. This was further extended with the Hardware implementation of a uniform Linear antenna array to test for Beam steering capability using NI Universal Software Radio Peripheral (USRP) devices programmed using MATLAB. 
+The scope of the project was further extended by trying to calibrate the phase of the antenna arrays that are connected to the radios using the concepts of Mixers, which could be used as a phase detector. 
+ 
+ The m-file 
